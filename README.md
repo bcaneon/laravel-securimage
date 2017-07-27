@@ -4,4 +4,5 @@ Full project link is
 https://www.phpcaptcha.org/
 
 Securimage will not work directly on laravel, we must change some code blocks in Securimage Class.
-You can download completely working file
+1) You must download Securimage from https://www.phpcaptcha.org/ and setup.
+2) Replace Securimage.php with mine.
